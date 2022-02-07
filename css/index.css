@@ -7,7 +7,7 @@
 }
 body
 {
-    background: #e8eaec;
+    background: #dcb6ee;
 }
 .box
 {
@@ -17,12 +17,12 @@ body
 {
     width: 42%;
     height: 625px;
-    background: #e8eaec;
+    background: #dcb6ee;
     box-shadow: 
     12px 12px 32px rgba(13,39,80,0.25),
-    -10px 10px 15px #fff;
+    -10px 10px 15px #dcb6ee;
     margin: 0 auto;
-    border: 8px solid #e8eaec;
+    border: 8px solid #cda9dd;
     min-width: 310px;
     max-width: 310px;
     border-radius: 44px;
@@ -32,7 +32,7 @@ body
     width: 159px;
     height: 30px;
     margin: 0px auto;
-    background: #e8eaece1;
+    background: #cda9dd;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius:15px ;
 }
@@ -58,8 +58,8 @@ body
     padding: 12px;
     box-shadow: 
     6px 6px 8px rgba(13, 39, 80, 0.25),
-    -6px -6px 10px #fff,
-    inset -8px -8px 12px rgba(255,255,255,0.7),
+    -6px -6px 10px #bb91ce,
+    inset -8px -8px 12px rgba(201, 165, 201, 0.7),
     inset 5px 5px 8px rgba(13,39,80,0.2);
 
 
@@ -112,7 +112,7 @@ button
     text-align: center;
     padding: 0px;
     background: transparent;
-    color: #c2c3c3 !important;
+    color: #a38fa0 !important;
     border: none !important;
     border-radius: 10px !important;
     height: 45px;
@@ -121,7 +121,7 @@ button
     font-size: 14pt !important;
     box-shadow: 
     4px 4px 8px rgba(13, 39,80,0.25),
-    -4px 4px 8px #fff;
+    -4px 4px 8px rgb(170, 127, 190);
 }
 .btn-work
 {
